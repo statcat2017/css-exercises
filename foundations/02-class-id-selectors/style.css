@@ -1,0 +1,19 @@
+p {
+    background-color: rgba(255, 182, 193, 0.932);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numberTwo {
+    color: rgba(64, 79, 168, 0.623);
+    font-size: 36px;
+}
+
+#numberThree {
+    font-size: 24px;
+}
+
+#numberFour {
+    background-color: rgb(83, 204, 12);
+    font-weight: bold;
+    font-size: 24px;
+}
